@@ -1,0 +1,14 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 36C9-2D4D
+
+ Directory of C:\Users\aarti\Downloads\GIT\My Project
+
+07/01/2020  04:55 AM    <DIR>          .
+07/01/2020  04:55 AM    <DIR>          ..
+05/20/2020  01:28 AM               900 Hello.class
+05/11/2020  04:22 PM               149 Hello.java
+05/19/2020  12:19 AM                21 index.html
+05/19/2020  12:19 AM                 8 test.txt
+07/01/2020  04:55 AM                 0 test2.txt
+               5 File(s)          1,078 bytes
+               2 Dir(s)  55,954,567,168 bytes free
